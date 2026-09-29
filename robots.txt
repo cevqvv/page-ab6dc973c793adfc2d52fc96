@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.vnwobn.cn/sitemap.xml
